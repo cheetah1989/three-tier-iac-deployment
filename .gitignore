@@ -35,3 +35,9 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+
+.backend-s3\.terraform.lock.hcl
+.backend-s3\.terraform
+.backend-s3/\.terraform.lock.hcl
+.backend-s3/\.terraform 
